@@ -46,3 +46,4 @@ def example():
   
 # timeit statement 
 print (timeit.timeit(setup = mysetup,stmt = mycode,number = 10000)
+       
